@@ -1,2 +1,10 @@
 # basic-java-blockchain
-Making a basic blockchain
+
+#### Simple way to implement a Blockchain using Java
+
+
+### Technologies used 
+
+- Java 8
+- Graddle
+
